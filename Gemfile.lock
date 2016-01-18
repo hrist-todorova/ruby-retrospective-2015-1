@@ -3,7 +3,6 @@ GEM
   specs:
     diff-lcs (1.2.5)
     ffi (1.9.10)
-    ffi (1.9.10-x86-mingw32)
     ffi-aspell (1.1.0)
       ffi
     observr (1.0.5)
@@ -28,7 +27,6 @@ GEM
 
 PLATFORMS
   ruby
-  x86-mingw32
 
 DEPENDENCIES
   observr
@@ -37,4 +35,4 @@ DEPENDENCIES
   skeptic (~> 0.0.16)
 
 BUNDLED WITH
-   1.11.2
+   1.10.6
