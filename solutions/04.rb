@@ -6,10 +6,6 @@ class Card
     @rank, @suit = rank, suit
   end
 
-  def rank
-    @rank
-  end
-
   def to_s
     @rank.to_s.capitalize + " of " + @suit.to_s.capitalize
   end
